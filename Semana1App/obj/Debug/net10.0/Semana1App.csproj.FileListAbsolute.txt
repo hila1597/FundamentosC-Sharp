@@ -1,0 +1,14 @@
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\bin\Debug\net10.0\Semana1App.exe
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\bin\Debug\net10.0\Semana1App.deps.json
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\bin\Debug\net10.0\Semana1App.runtimeconfig.json
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\bin\Debug\net10.0\Semana1App.dll
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\bin\Debug\net10.0\Semana1App.pdb
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.AssemblyInfoInputs.cache
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.AssemblyInfo.cs
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.csproj.CoreCompileInputs.cache
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.dll
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\refint\Semana1App.dll
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.pdb
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\Semana1App.genruntimeconfig.cache
+C:\Users\hilar\OneDrive\Escritorio\tareasemana1c\Semana1App\obj\Debug\net10.0\ref\Semana1App.dll
